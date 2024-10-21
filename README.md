@@ -33,5 +33,5 @@ Asegúrate de tener instalados los siguientes programas:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/usuario/tema-switcher.git
+   git clone https://github.com/pie224/theme-switcher-i3.git
    cd tema-switcher
